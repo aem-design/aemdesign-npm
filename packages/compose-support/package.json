@@ -6,6 +6,10 @@
   },
   "license": "MIT",
   "name": "@aem-design/compose-support",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aem-design/aemdesign-npm.git"
+  },
   "version": "1.0.0",
   "devDependencies": {
     "chalk": "^2.4.2",
