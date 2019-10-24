@@ -1,3 +1,6 @@
 [submodule "packages/compose-support"]
 	path = packages/compose-support
 	url = git@github.com:aem-design/npm-compose-support.git
+[submodule "packages/compose-webpack"]
+	path = packages/compose-webpack
+	url = git@github.com:aem-design/npm-compose-webpack.git
