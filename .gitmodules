@@ -1,6 +1,8 @@
 [submodule "packages/compose-support"]
 	path = packages/compose-support
-	url = git@github.com:aem-design/npm-compose-support.git
+	url = https://github.com/aem-design/npm-compose-support.git
+	branch = master
 [submodule "packages/compose-webpack"]
 	path = packages/compose-webpack
-	url = git@github.com:aem-design/npm-compose-webpack.git
+	url = https://github.com/aem-design/npm-compose-webpack.git
+	branch = master
